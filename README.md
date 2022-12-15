@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PJ! @pganot2
 - 👀 I’m interested in Coding for fun, projects, and higher base tech.
 - 🌱 I’m currently learning C++, Data Structures, Python
-- 💞️ I’m looking to collaborate on high-level projects related to Python, C++, and Java
+- 💞️ I’m looking to collaborate on high-level projects related to Python, C++, C, Java, and so much more.
 - 📫 How to reach me: patrick.ganotisi@gmail.com
 
 <!---
